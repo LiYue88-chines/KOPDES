@@ -3,7 +3,7 @@
 // =====================================
 
 const URL_GOOGLE_SCRIPT =
-    "MASUKKAN_URL_APPS_SCRIPT_DI_SINI";
+    "https://script.google.com/macros/s/AKfycbyRq9tUyPnAGqhkqMZq0P8OKXfjdEVp6RZqBwCpRPYOlXPrRFUjJA71CnE_fq0PS8E/exec";
 
 
 // =====================================
